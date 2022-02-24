@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+😺 I'm Clara, a programming student based in Rueil-Malmaison, FRANCE
+👩🏻‍💻 I'm currently working on projects for my school
+
+
 <!--
 **MirinaeCoding/MirinaeCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
