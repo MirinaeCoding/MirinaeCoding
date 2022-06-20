@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-😺 I'm Clara, a programming student based in France <br/>
-👩🏻‍💻 I'm currently working on projects for my school
+😺 Programming student based in France <br/>
+👩🏻‍💻 Currently working on projects for my school
 
 
 <!--
